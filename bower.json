@@ -5,7 +5,7 @@
     "Jack <jack@ofspades.com>"
   ],
   "description": "Angular service to test if a given @media statment is true.",
-  "main": "match-media.js",
+  "main": "match-media.min.js",
   "moduleType": [
     "globals"
   ],
